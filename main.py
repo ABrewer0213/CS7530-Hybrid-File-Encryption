@@ -3,7 +3,7 @@ CS 7530 Spring 2026 Project
 Hybrid File Encryption System Using AES and RSA
 
 Author: Amonn Brewer
-Group Number: [Add Group Number Here]
+
 
 Description:
 This program demonstrates hybrid cryptography by using:

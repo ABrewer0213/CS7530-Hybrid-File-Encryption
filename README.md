@@ -1,7 +1,6 @@
 # CS 7530 Hybrid File Encryption System
 
 **Author:** Amonn Brewer  
-**Group Number:** [Add Group Number Here]  
 **Course:** CS 7530 Spring 2026  
 **Project Title:** Hybrid File Encryption System Using AES and RSA  
 
@@ -121,12 +120,3 @@ output/decrypted_sample.txt
 ## Expected Result
 
 The decrypted file should contain the same text as the original `sample.txt`.
-
-## Security Notes
-
-This project is designed for educational demonstration. In a production environment:
-
-- The RSA private key should be password protected.
-- Keys should be stored securely.
-- Additional authentication and access control should be added.
-- Digital signatures could be used to verify sender identity.

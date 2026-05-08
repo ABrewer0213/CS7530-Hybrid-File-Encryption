@@ -1,6 +1,5 @@
 """
 File Encryption Module
-
 This module performs hybrid encryption:
 1. Generate a random AES-256 key.
 2. Encrypt the selected file using AES-GCM.
