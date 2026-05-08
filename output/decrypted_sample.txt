@@ -1,0 +1,6 @@
+This is a sample file for the CS 7530 Hybrid File Encryption System.
+
+This file will be encrypted using AES-256-GCM.
+The AES key will be encrypted using RSA-2048-OAEP.
+
+After decryption, this text should match the original file exactly.
